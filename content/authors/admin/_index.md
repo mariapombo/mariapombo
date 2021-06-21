@@ -41,8 +41,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mari_pombo
-- icon: google_scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=SGDxVHEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
