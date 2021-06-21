@@ -74,4 +74,4 @@ Before joining the Pelli Lab, I completed my B.A. in Psychology at Georgetown Un
 I was born and raised in Bogotá, Colombia and moved to the United States to complete my education. In my free time, I enjoy travelling, exploring new restaurants, and playing ultimate frisbee. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
