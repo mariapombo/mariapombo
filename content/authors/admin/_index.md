@@ -67,7 +67,7 @@ highlight_name: false
 ---
 
 
-I am a first-year PhD student working with Dr. Denis Pelli at New York University. I am interested in using psychological tools to characterize the experience of beauty. More specifically, I am interested in understanding how aesthetic value informs our everyday decisions. My current project explores the potential issues of using repeated measures to calculate the intraindividual variability of beauty judgments. 
+I am a first-year PhD student working with Dr. Denis Pelli at New York University (NYU). I am interested in using psychological tools to characterize the experience of beauty. More specifically, I am interested in understanding how aesthetic value informs our everyday decisions. My current project explores the potential issues of using repeated measures to calculate the intraindividual variability of beauty judgments. 
 
 Before joining the Pelli Lab, I completed my B.A. in Psychology at Georgetown University where I also minored in Cognitive Science and Computer Science. As an undergraduate, I worked at the Georgetown University Neuroaesthetics Laboratory, where Dr. Norberto Grzywacz and I studied the perception of an appreciation for multiple vertical axes of symmetry. I also worked with Dr. Carlos Velasco at BI Norwegian Business school, where I studied how different aesthetic features could covey different brand meanings. 
 
