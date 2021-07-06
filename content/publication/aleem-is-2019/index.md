@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+
 title: Is Beauty in the Eye of the Beholder or an Objective Truth? A Neuroscientific
   Answer
 subtitle: ''
