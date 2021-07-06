@@ -1,7 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-
 title: Is Beauty in the Eye of the Beholder or an Objective Truth? A Neuroscientific
   Answer
 subtitle: ''
@@ -19,7 +18,7 @@ tags:
 - '"Subjectivity"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-06-21T15:25:13-04:00
+lastmod: 2021-07-06T13:43:24-04:00
 featured: false
 draft: false
 
@@ -37,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-21T19:25:13.065297Z'
+publishDate: '2021-07-06T17:43:24.312412Z'
 publication_types:
 - '6'
 abstract: Is beauty subjective or objective? Once limited to Philosophy, this question
