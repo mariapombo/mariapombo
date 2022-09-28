@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T17:18:10.537990Z'
+publishDate: '2022-09-28T17:59:04.352933Z'
 publication_types:
 - '6'
 abstract: Is beauty subjective or objective? Once limited to Philosophy, this question

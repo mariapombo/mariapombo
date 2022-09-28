@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T17:18:13.787068Z'
+publishDate: '2022-09-28T17:59:04.422918Z'
 publication_types:
 - '4'
 abstract: The intrinsic variance of a beauty rating is the essential baseline for

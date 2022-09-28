@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-28T17:18:13.631645Z'
+publishDate: '2022-09-28T17:59:04.398344Z'
 publication_types:
 - '2'
 abstract: When do aesthetic properties convey the concept of premiumness? Is symmetry
